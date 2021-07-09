@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: false,
+  apiURL: 'https://shortner-url-link.herokuapp.com/'
+  //apiURL: 'http://localhost:3000/'
 };

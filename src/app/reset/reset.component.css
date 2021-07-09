@@ -1,0 +1,10 @@
+.modal-content {
+    text-align: center;
+    color: #fff;
+    width: 75%;
+    background-color: #391bb3;
+    background-clip: padding-box;
+    border: 1px solid #391bb3;
+    border-radius: .3rem;
+    outline: 0;
+}
